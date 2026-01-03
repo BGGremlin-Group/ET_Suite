@@ -9,7 +9,7 @@
 
 ET5.5 is a comprehensive Python-based tool suite for simulating and demonstrating Wi-Fi attacks, designed for red team and blue team training in controlled lab environments. It includes features like Evil Twin AP creation, deauthentication attacks, beacon spamming, PMKID/SAE capture and cracking, Karma attacks, WPS attacks (Pixie Dust and Reaver brute force), and WPA3 Dragonblood attack. The tool is built with a Text User Interface (TUI) using curses for easy navigation and operation.
 
-**Important Disclaimer**: ~~This tool is for educational and ethical testing purposes only. Use it only on networks and devices you own or have explicit permission to test. Unauthorized use may violate laws like the Computer Fraud and Abuse Act (CFAA) in the US or equivalent laws elsewhere.~~ The developers assume **no responsibility** for misuse. We're not your nanny. whst you donis on you. we neither endorse the use or misuse of our products. all code is presented as is.
+**Important Disclaimer**: ~~This tool is for educational and ethical testing purposes only. Use it only on networks and devices you own or have explicit permission to test. Unauthorized use may violate laws like the Computer Fraud and Abuse Act (CFAA) in the US or equivalent laws elsewhere.~~ The developers assume **no responsibility** for misuse. We're not your nanny. What you do is on you. we neither endorse the use, nor misuse of our products. all code is presented as is.
 
 ### Evolution of Versions
 - **Initial Version**: Basic Evil Twin setup with TUI, deauth, beacon spam, logging, and data saving (txt, json, yaml, pdf).
