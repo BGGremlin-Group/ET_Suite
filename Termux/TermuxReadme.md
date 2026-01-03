@@ -1,5 +1,7 @@
 # Evil-Twin Toolkit for Termux
 
+![Project Banner](https://github.com/BGGremlin-Group/ET_Suite/blob/main/Img/ET1.0Banner.png)
+
 **Developed by the Background Gremlin Group**
 “Creating Unique Tools for Unique Individuals”
 
