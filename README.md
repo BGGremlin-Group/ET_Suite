@@ -92,7 +92,7 @@ pkg install aircrack-ng hostapd dnsmasq iptables net-tools hcxtools bettercap ha
 **Windows**: Limited. Install Npcap for Scapy. Many tools (e.g., hostapd) not available natively; use WSL for full functionality.
 
 ## Installation
-1. Clone or download the script (e.g., `et55.py`).
+1. Clone or download the script ET5.5.py
 2. Install Python dependencies: `pip install -r requirements.txt`.
 3. Install external tools as above.
 4. Run as root: `sudo python et55.py` (or in Termux: `su -c python et55.py`).
