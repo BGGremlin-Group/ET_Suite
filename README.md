@@ -1,5 +1,8 @@
 # ET5.5 - Evil Twin Wi-Fi Attack Suite
 
+![Project Banner](https://github.com/BGGremlin-Group/IR-wear-Project-/blob/main/img/banner.png)
+#Developed by the BGGG
+
 ## Overview
 
 ET5.5 is a comprehensive Python-based tool suite for simulating and demonstrating Wi-Fi attacks, designed for red team and blue team training in controlled lab environments. It includes features like Evil Twin AP creation, deauthentication attacks, beacon spamming, PMKID/SAE capture and cracking, Karma attacks, WPS attacks (Pixie Dust and Reaver brute force), and WPA3 Dragonblood attack. The tool is built with a Text User Interface (TUI) using curses for easy navigation and operation.
