@@ -1,7 +1,9 @@
 # ET5.5 - Evil Twin Wi-Fi Attack Suite
 
 ![Project Banner](https://github.com/BGGremlin-Group/ET_Suite/blob/main/Img/ET5.5Banner.png)
-#Developed by the BGGG
+
+# Developed by the *Background Gremlin Group*
+*Creating Unique Tools for Unique Individuals*
 
 ## Overview
 
