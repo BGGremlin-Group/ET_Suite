@@ -1,6 +1,6 @@
 # ET5.5 - Evil Twin Wi-Fi Attack Suite
 
-![Project Banner](https://github.com/BGGremlin-Group/IR-wear-Project-/blob/main/img/banner.png)
+![Project Banner](https://github.com/BGGremlin-Group/ET_Suite/blob/main/Img/ET5.5Banner.png)
 #Developed by the BGGG
 
 ## Overview
